@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650288955 source:c:\users\3bdel\onedrive\desktop\new folder (4)\a1_p8_20200508_20200318_20200474_202000484\p8\main.cpp
+	<iostream>
+
+1650309038 source:c:\users\3bdel\onedrive\desktop\new folder (4)\a1_p8_20200508_20200318_20200474_202000484\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<chrono>
+	<ctime>
+	<cstdlib>
+
